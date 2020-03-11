@@ -1,6 +1,6 @@
 # CircleCI Demo React JS App
 
-[![CircleCI](https://circleci.com/gh/CircleCI-Public/circleci-demo-javascript-react-app.svg?style=svg)](https://circleci.com/gh/CircleCI-Public/circleci-demo-javascript-react-app)
+[![CircleCI](https://circleci.com/gh/pelican-bookstore/bookstore.svg?style=svg)](https://circleci.com/gh/pelican-bookstore/bookstore)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
